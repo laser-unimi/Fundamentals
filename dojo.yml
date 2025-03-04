@@ -1,4 +1,4 @@
-name: Computing 101
+name: Fundamental Knowledge
 type: welcome
 id: computing-101
 image: pwncollege/challenge-legacy:latest
@@ -6,9 +6,5 @@ award:
   emoji: 💻
 modules:
 - id: your-first-program
-- id: introspecting
-- id: memory
-- id: hello-hackers
 - id: assembly-crash-course
 - id: debugging-refresher
-- id: building-a-web-server
